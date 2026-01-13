@@ -6,5 +6,5 @@ II. **Intellectual Property**: The "Mantel" Innovation My research led to a prov
 III. **Proposed Research**: Metal Oxide-2D Hybrids I propose to evolve the "Mantel" architecture by integrating the Group’s expertise in Liquid-Phase Exfoliation (LPE) and metal oxide nanosheets.<br>
 1.	Nanostructured Attenuation: By leveraging LPE to create high-aspect-ratio metal oxide "bricks" ,  we can develop "brick-and-mortar" structures that maximize photoelectric absorption.<br>
 2.	Multifunctional Interfaces: I intend to investigate the surface functionalization of these oxides to ensure compatibility with superconducting circuit substrates, ensuring the shielding is non-conductive and non-magnetic.<br>
-IV. Synergy with the Pope Group & University of  <br>
+IV. Synergy with the Group & University of  <br>
 The University offers a unique opportunity to synthesize these materials in the Lab and validate their performance on actual superconducting resonators.  Mastery of colloidal chemistry is the essential link needed to transform "Mantel" from a lab-scale prototype into a scalable coating for the next generation of quantum processors.
