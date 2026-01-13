@@ -3,7 +3,7 @@ II. **Intellectual Property**: The "Mantel" Innovation My research led to a prov
 •	High-Z Integration: Loading heavy-atom clusters into stable matrices.<br>
 •	Cryogenic Stability: Ensuring structural integrity under extreme thermal cycling.<br>
 •	Scalable Synthesis: Applying automation and ML-driven data analysis to accelerate material discovery.<br>
-III. **Proposed Research**: Metal Oxide-2D Hybrids I propose to evolve the "Mantel" architecture by integrating the Pope Group’s expertise in Liquid-Phase Exfoliation (LPE) and metal oxide nanosheets.<br>
+III. **Proposed Research**: Metal Oxide-2D Hybrids I propose to evolve the "Mantel" architecture by integrating the Group’s expertise in Liquid-Phase Exfoliation (LPE) and metal oxide nanosheets.<br>
 1.	Nanostructured Attenuation: By leveraging LPE to create high-aspect-ratio metal oxide "bricks" ,  we can develop "brick-and-mortar" structures that maximize photoelectric absorption.<br>
 2.	Multifunctional Interfaces: I intend to investigate the surface functionalization of these oxides to ensure compatibility with superconducting circuit substrates, ensuring the shielding is non-conductive and non-magnetic.<br>
 IV. Synergy with the Pope Group & University of  <br>
