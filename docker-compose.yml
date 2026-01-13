@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  alchemi-bgr-nim:
+    image: nvcr.io/nim/nvidia/alchemi-bgr-mace-mp0:1.0.0
+    container_name: alchemi_bgr
+    environment:
+      - NGC_API_KEY=${NGC_API_KEY}
+      - NVIDIA_VISIBLE_DEVICES=all
+    ports:
+      - "8000:8000"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    volumes:
+      - ~/.cache/nim:/opt/nim/.cache
+    shm_size: '16gb'

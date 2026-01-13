@@ -1,0 +1,8 @@
+torch>=2.0.0
+numpy>=1.24.0
+requests
+mp-api
+pymatgen
+# nvalchemiops is often installed via a specific Nvidia index
+# pip install nvalchemiops --index-url https://pypi.nvidia.com
+nvalchemi-toolkit-ops
